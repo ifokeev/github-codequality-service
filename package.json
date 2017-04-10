@@ -1,0 +1,21 @@
+{
+  "name": "github-quality-service",
+  "version": "1.0.0",
+  "description": "Micro server that watches Github pull requests and comments on code violations.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifokeev/github-codequality-service.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifokeev/github-codequality-service/issues"
+  },
+  "homepage": "https://github.com/ifokeev/github-codequality-service#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}
