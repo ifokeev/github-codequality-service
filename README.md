@@ -1,6 +1,6 @@
 Micro server that watches Github pull requests and comments on code violations.
 
-Based on [https://github.com/GratifyCommerce/watchdog](Watchdog)
+Based on [Watchdog](https://github.com/GratifyCommerce/watchdog)
 
 - Free alternative to [Hound](https://houndci.com): deploy it on a free Heroku dyno.
 - No need to configure a CI server: useful if your CI server has limitations, or if you want to introduce automated code checks in a team with minimal effort.
